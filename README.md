@@ -138,6 +138,7 @@ This project demonstrated how machine learning principles apply to real-time dat
 
 ## 🚀 Live Demo
 
+The following link will be accessible when the Greenify website goes live. But for now, a video recording of the dashboard is available.
 **Dashboard:** [View Live](https://greenify-dashboard.vercel.app)  
 
 ---
