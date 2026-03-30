@@ -139,7 +139,6 @@ This project demonstrated how machine learning principles apply to real-time dat
 ## 🚀 Live Demo
 
 **Dashboard:** [View Live](https://greenify-dashboard.vercel.app)  
-**Repository:** [GitHub](https://github.com/amaanthasin/greenify-dashboard)
 
 ---
 
@@ -148,7 +147,7 @@ This project demonstrated how machine learning principles apply to real-time dat
 **Amaan Thasin**  
 Data Science & Information Technology  
 Michigan State University '24  
-📧 thasinam@msu.edu  
+📧 amaan.thasin@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/amaanthasin) | [Portfolio](https://amaanthasin.com)
 
 ---
